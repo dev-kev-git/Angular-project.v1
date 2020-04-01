@@ -1,0 +1,18 @@
+npm uninstall -g @angular/cli   --------> Desinstalar la version actual
+npm cache clean                 --------> borrar cache
+npm install -g @angular/cli@1   --------> Instalar version espeficica
+
+========================Pagina de versiones======================================
+https://www.npmjs.com/package/@angular/cli?activeTab=versions
+=================================================================================
+
+ng new <Nombre de la aplicacion> 
+
+ng serve ---------------------> Iniciar aplicacion;
+
+===================================================================================
+nmp install <nombre_de_libreria>
+
+node_modules -------------------> Carpeta donde se instalan las librerias
+
+
